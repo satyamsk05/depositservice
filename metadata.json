@@ -1,0 +1,6 @@
+{
+  "name": "UPI PayGate",
+  "description": "Automated UPI deposit payment gateway with dynamic QR codes, UTR verification, Telegram notifications, and instant wallet credit confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
